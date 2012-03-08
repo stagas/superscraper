@@ -6,7 +6,7 @@
 
 ## introduction
 
-superscraper extends [superagent](https://github.com/visionmedia/superagent) prototype with a `.scrape(callback)` method, preloading [htmlparser2](https://github.com/FB55/node-htmlparser) and [cheerio-soupselect](https://github.com/MatthewMueller/cheerio-soupselect) for easy and fast scraping.
+superscraper extends [superagent](https://github.com/visionmedia/superagent) prototype with a `.scrape()` method, preloading [htmlparser2](https://github.com/FB55/node-htmlparser) and [cheerio-soupselect](https://github.com/MatthewMueller/cheerio-soupselect) for easy and fast scraping.
 
 ## usage
 
