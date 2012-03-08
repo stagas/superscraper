@@ -1,0 +1,21 @@
+{
+  "author": "George Stagas <gstagas@gmail.com> (http://stagas.com)",
+  "name": "superscraper",
+  "description": "scraper extension for superagent",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/stagas/superscraper"
+  },
+  "main": "superscraper.js",
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+    "cheerio-soupselect": "~0.1.1",
+    "htmlparser2": "~2.2.4",
+    "superagent": "~0.4.0"
+  },
+  "devDependencies": {
+    "colors": "*"
+  }
+}
